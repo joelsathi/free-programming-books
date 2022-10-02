@@ -662,6 +662,8 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) - Prof. Stewart Weiss (PDF)
 * [Writing a Simple Operating System from Scratch](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) - Nick Blundell (PDF)
 * [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
+* [Operating Systems Concepts](https://libgen.rocks/ads.php?md5=7312960D0FB110104EA01347F30CC98A) - Abraham Silberschatz, Peter Baer Galvin, Greg Gagne (PDF)
+* [Modern Operating Systems](https://libgen.rocks/ads.php?md5=4CE80248DEE7322740D1FB5538299265) - Andres.S Tanenbaum & Herbert Bos (PDF)
 
 
 ### Parallel Programming
